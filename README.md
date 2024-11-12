@@ -1,13 +1,13 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Teste de gerador de imagens IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um teste do potencial de geradores de imagem IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Craiyon.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o prompt "A selfie of a smiling man with short black hair wearing a blue t-shirt, with a natural landscape in the background". Das nove imagens geradas, eu escolhi a mais realista e apliquei upscaling.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
